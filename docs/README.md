@@ -4,7 +4,7 @@ This project contains the code developed for the article "Modeling generalized t
 
 The results obtained are comparable with generalized tonic-clonic seizures shown by EEG. while  the oscillator death could be comparable to postictal generalized electroencephalographic suppression. In our model, it was achieved either by changing the system’s charging capacity or the initial conditions.
 
-### Keywords: neural model, generalized tonic-clonic seizures, FitzHugh Model.
+#### Keywords: neural model, generalized tonic-clonic seizures, FitzHugh Model.
 
  - No external data are needed
  - In the output folder, you can find some of the Figures that the code can do. These include limit cycles (where parameters are reported), and time versus voltage plots.
