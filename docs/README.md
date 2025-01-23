@@ -7,6 +7,7 @@ The results obtained are comparable with generalized tonic-clonic seizures shown
 #### Keywords: neural model, generalized tonic-clonic seizures, FitzHugh Model.
 
  - No external data are needed
+ - The output folder contains some of the Figures that can be plotted with the main code.
  - In the output folder, you can find some of the Figures that the code can do. These include limit cycles (where parameters are reported), and time versus voltage plots.
  - The source folder, contains the code. There is just one code, since only by changing the value of the parameter k (make it different from zero), the oscillators are coupled. In the same way, change the initial conditions, causes regime I or II.
  
