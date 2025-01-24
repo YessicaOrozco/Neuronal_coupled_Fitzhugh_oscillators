@@ -1,6 +1,6 @@
 # Modeling generalized tonic-clonic epileptic seizures with coupled Fitzhugh oscillators
 ### Authors Yessica Orozco and Pablo Padilla
-#### 1Department of Mathematics and Mechanics, Institute for Research in Applied Mathematics and Systems (IIMAS), National Autonomous University of Mexico (UNAM), Mexico City, Mexico.
+#### Department of Mathematics and Mechanics, Institute for Research in Applied Mathematics and Systems (IIMAS), National Autonomous University of Mexico (UNAM), Mexico City, Mexico.
 Contributing author: yessica.orozco@ciencias.unam.mx; pablo@mym.iimas.unam.mx;
 
 This project contains the code developed for the article "Modeling generalized tonic-clonic epileptic seizures with coupled Fitzhugh oscillators" published in 2025. Here, we propose a mathematical model based on coupled FitzHugh oscillators in which their transition from harmonic oscillations to a disordered oscillatory regime can be observed. 
