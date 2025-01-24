@@ -3,7 +3,7 @@
 #### Department of Mathematics and Mechanics, Institute for Research in Applied Mathematics and Systems (IIMAS), National Autonomous University of Mexico (UNAM), Mexico City, Mexico.
 Contributing author: yessica.orozco@ciencias.unam.mx; pablo@mym.iimas.unam.mx;
 
-In this model the FitzHugh system was used as a starting point, which was modified by adding coupled oscillators. Both systems and the zeroclines are presented.
+For this system the FitzHugh model was used as a starting point, which was modified by adding coupled oscillators. Both systems and the zeroclines are presented.
 
 The phase plane plot and the time versus electric potential (voltage) graphs are sketched in the main code.
 
